@@ -1,0 +1,12 @@
+# Stop commiting textures
+
+# Cache directory
+Cache/
+
+# Textures
+PluginData/*
+*.dds
+
+# Temp textures
+*.xcf
+*.tga
