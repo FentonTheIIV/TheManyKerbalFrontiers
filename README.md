@@ -1,16 +1,16 @@
 # TheManyKerbalFrontiers
-Group project attempting to remake "The Many Frontiers" world in ksp. Original maker: nip_dip @ reddit
+Group project attempting to remake "The Many Frontiers" world in ksp. Original maker: nip_dip @ Reddir
 
 
 
 
-Dependencies,
+Dependencies
 
 - TMKF(the many kerbal frontiers, obviously
 - Kopernicus and its dependencies
-- MitchellNetravali Height pqs mod
+- VertexMitchellNetravalliHeight PQSMod
 
 
 Supported visual mods
 
-- scatterer
+- Scatterer
